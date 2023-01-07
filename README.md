@@ -1,3 +1,3 @@
-## Fture
-Static Landing Page using HTML & CSS
-Deployment: https://asifkamaltias.github.io/future/
+## Future
+Static Landing Page using HTML & CSS.
+View Deployment: [https://asifkamaltias.github.io/future/](https://asifkamaltias.github.io/future/)
